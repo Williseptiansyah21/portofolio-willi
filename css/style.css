@@ -294,7 +294,7 @@ section {
 
 .home-imgHover:hover {
     background: var(--bg-color);
-    opacity: .8;
+    opacity: 0.8;
 }
 
 .about {
